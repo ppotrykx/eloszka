@@ -9,3 +9,4 @@ dodane6
 dodane7
 dodane8
 1 com
+3 com
